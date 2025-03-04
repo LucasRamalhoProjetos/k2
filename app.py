@@ -16,5 +16,4 @@ Se aplico essa lógica à minha visão de Deus, então Deus é esse tripé essen
 
 Não podemos limitar Deus a uma imagem. Ele é o todo. Podemos não ser iguais no olhar e no reconhecer, mas na redução atômica, tudo e todos somos parecidos. Somos irmãos, feitos à Sua imagem e semelhança. Do pó viemos e ao pó retornaremos. Para alguns, essa perspectiva pode não fazer sentido, mas, para mim, faz todo o sentido.
 
-Admiro o fato que, mesmo sendo ateu, você reconhece a importância da religião e da crença. Gostaria, um dia, de ter a oportunidade de conversar com o senhor.
 """)
