@@ -1,0 +1,42 @@
+.profileedit {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #5c9ecf;
+    margin-top: 100px;
+}
+
+.profileedit label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.profileedit input[type="text"],
+.profileedit input[type="number"],
+.profileedit textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.profileedit input[type="file"] {
+    margin-bottom: 10px;
+}
+
+.profileedit input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.profileedit input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.profileedit::after {
+    content: "";
+    display: table;
+    clear: both;
+}
